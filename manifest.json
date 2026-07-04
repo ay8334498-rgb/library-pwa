@@ -1,0 +1,16 @@
+{
+  "name": "مكتبتي المحلية",
+  "short_name": "مكتبتي",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#2ecc71",
+  "description": "نظام إدارة مكتبة محلي بقاعدة بيانات حقيقية",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
